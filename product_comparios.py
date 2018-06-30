@@ -28,10 +28,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import svm
 from sklearn.metrics import classification_report
 
-ACCESS_TOKEN = '551761241-NLbQTMlZBssl68MeKo3N9P8RcsSYjqk0EHFNdosW'
-ACCESS_SECRET = 'fkKDeBMhBKgKUF4sx2qoDjLIb0ciBA3sqxRLLWPg177Cl'
-CONSUMER_KEY = 'PJVqgCUwP00ctxz5WY5zQjAmU'
-CONSUMER_SECRET = 'ptQylfcYNykqTPIb3omVtcAJqWNz3S8qyL3lcqN8OXOY9rHCCX'
+ACCESS_TOKEN = ****
+ACCESS_SECRET = ****
+CONSUMER_KEY = ****
+CONSUMER_SECRET = ****
 oauth = OAuth(ACCESS_TOKEN, ACCESS_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
 
 
